@@ -3,7 +3,7 @@ public class Student {
     String name;
     double gpa;
 
-  
+
     public Student(int id, String name, double gpa) {
         this.id = id;
         this.name = name;
